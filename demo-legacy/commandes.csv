@@ -1,0 +1,67 @@
+date,client,region,article,quantite,prix_unitaire
+2026-09-04,Cafe du Port,PACA,Dock USB-C,3,89.90
+2026-09-11,Jardins de l'Ouest,BZH,Cable HDMI,6,12.50
+2026-09-17,Dupuis SARL,BZH,Ecran 24,5,149.00
+2026-09-08,Menuiserie Roux,OCC,Tapis,5,9.90
+2026-09-04,Dupuis SARL,RA,Ecran 27,4,229.00
+2026-09-03,Fournier & Fils,OCC,Tapis,7,9.90
+2026-09-11,Dupuis SARL,BZH,Souris,3,25.05
+2026-09-03,Ets Marchand,OCC,Clavier,4,49.90
+2026-09-04,Kiosque 7,IDF,Souris
+2026-09-01,Bureau Vallee,BZH,Casque,4,79.50
+2026-09-10,Fournier & Fils,OCC,Tapis,6,9.90
+2026-09-12,Cafe du Port,OCC,Cable HDMI,3,12.50
+2026-09-05,Altatis,RA,Souris,6,25.05
+2026-09-05,Kiosque 7,BZH,Tapis,3,9.90
+2026-09-03,Librairie Centrale,PACA,Ecran 27,5,229.00
+2026-09-07,Imprimerie Lyon,IDF,Tapis,1,9.90
+2026-09-06,Dupuis SARL,RA,Clavier,zero,49.90
+2026-09-09,Fournier & Fils,BZH,Cable HDMI,7,12.50
+2026-09-16,Jardins de l'Ouest,OCC,Souris,2,25.05
+2026-09-13,Jardins de l'Ouest,OCC,Support,2,34.90
+2026-09-16,Imprimerie Lyon,RA,Ecran 27,4,229.00
+2026-09-02,Dupuis SARL,OCC,Support,7,34.90
+2026-09-03,Imprimerie Lyon,BZH,Webcam,5,64.00
+2026-09-08,Cafe du Port,PACA,Casque,0,79.50
+2026-09-11,Groupe Helios,BZH,Casque,6,79.50
+2026-09-07,Groupe Helios,IDF,Cable HDMI,3,12.50
+2026-09-12,Kiosque 7,BZH,Cable HDMI,4,12.50
+2026-09-15,Menuiserie Roux,IDF,Ecran 27,2,229.00
+2026-09-05,Cafe du Port,BZH,Dock USB-C,8,89.90
+2026-09-07,Jardins de l'Ouest,BZH,Casque,8,79.50
+2026-09-10,Dupuis SARL,RA,Support,5,34.90
+2026-09-13,Fournier & Fils,PACA,Souris,4,25.05
+2026-09-09,Ets Marchand,OCC,Tapis,3,-9.90
+2026-09-03,Imprimerie Lyon,RA,Ecran 24,7,149.00
+2026-09-11,Kiosque 7,BZH,Tapis,2,9.90
+2026-09-10,Ets Marchand,BZH,Dock USB-C,7,89.90
+2026-09-06,Imprimerie Lyon,IDF,Support,1,34.90
+2026-09-14,Groupe Helios,IDF,Ecran 24,3,149.00
+2026-09-02,Dupuis SARL,BZH,Casque,6,79.50
+2026-09-16,Kiosque 7,PACA,Clavier,7,49.90
+2026-09-11,Groupe Helios,idf,Ecran 27,2,229,00
+2026-09-15,Librairie Centrale,PACA,Webcam,1,64.00
+2026-09-07,Fournier & Fils,OCC,Ecran 24,4,149.00
+2026-09-14,Kiosque 7,BZH,Webcam,6,64.00
+2026-09-08,Bureau Vallee,BZH,Webcam,7,64.00
+2026-09-09,Groupe Helios,PACA,Dock USB-C,3,89.90
+2026-09-10,Jardins de l'Ouest,RA,Webcam,4,64.00
+2026-09-01,Jardins de l'Ouest,OCC,Souris,2,25.05
+2026-09-11,Kiosque 7,OCC,Ecran 24,7,149.00
+2026-09-12,Librairie Centrale,BZH,Cable HDMI,-2,12.50
+2026-09-04,Cafe du Port,RA,Tapis,1,9.90
+2026-09-13,Librairie Centrale,BZH,Souris,7,25.05
+2026-09-05,Menuiserie Roux,PACA,Ecran 27,7,229.00
+2026-09-13,Dupuis SARL,IDF,Ecran 27,1,229.00
+2026-09-08,Cafe du Port,OCC,Dock USB-C,3,89.90
+2026-09-12,Bureau Vallee,IDF,Support,1,34.90
+2026-09-09,Kiosque 7,BZH,Casque,1,79.50
+2026-09-02,Menuiserie Roux,RA,Support,3,34.90
+2026-09-13,Ets Marchand,BZH,Souris,8,25.05
+2026-09-11,Ets Marchand,OCC,Souris,5,25.05
+2026-09-11,Groupe Helios,BZH,Casque,8,79.50
+2026-09-13,Bureau Vallee,RA,Clavier,3,49.90
+2026-09-11,Altatis,RA,Cable HDMI,1,12.50
+2026-09-10,Altatis,OCC,Souris,6,25.05
+2026-09-03,Jardins de l'Ouest,RA,Ecran 27,5,229.00
+2026-09-17,Altatis,IDF,Ecran 27,3,229.00

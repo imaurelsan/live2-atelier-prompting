@@ -1,0 +1,67 @@
+RAPPORT D'ACTIVITE
+==================
+
+Lignes traitees : 61
+Lignes rejetees : 5
+
+Region BZH
+  commandes   : 20
+  clients     : 10
+  CA HT       : 6581.90 EUR
+  CA TTC      : 7898.28 EUR
+  top articles:
+    - Casque (33)
+    - Souris (18)
+    - Webcam (18)
+
+Region IDF
+  commandes   : 9
+  clients     : 6
+  CA HT       : 2361.85 EUR
+  CA TTC      : 2834.22 EUR
+  top articles:
+    - Ecran 27 (8)
+    - Cable HDMI (3)
+    - Ecran 24 (3)
+
+Region OCC
+  commandes   : 14
+  clients     : 8
+  CA HT       : 3013.85 EUR
+  CA TTC      : 3616.62 EUR
+  top articles:
+    - Tapis (18)
+    - Souris (15)
+    - Ecran 24 (11)
+
+Region PACA
+  commandes   : 7
+  clients     : 6
+  CA HT       : 3718.46 EUR
+  CA TTC      : 4462.15 EUR
+  top articles:
+    - Ecran 27 (12)
+    - Clavier (7)
+    - Dock USB-C (6)
+
+Region RA
+  commandes   : 11
+  clients     : 7
+  CA HT       : 4757.00 EUR
+  CA TTC      : 5708.40 EUR
+  top articles:
+    - Ecran 27 (13)
+    - Support (8)
+    - Ecran 24 (7)
+
+TOTAL
+  commandes   : 61
+  CA HT       : 20433.06 EUR
+  CA TTC      : 24519.67 EUR
+
+ANOMALIES
+  - ligne 10 incomplete
+  - ligne 18 illisible
+  - ligne 25 quantite invalide
+  - ligne 34 prix negatif
+  - ligne 51 quantite invalide
